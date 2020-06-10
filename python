@@ -42,3 +42,5 @@ while True: #입력값 루프, 0 입력 시 루프 종료
         break
     else:
         print("1(Comp) 2(Rev) 3(Rev_Comp)")
+        
+        #출처: https://busanjinpython.tistory.com/6
